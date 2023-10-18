@@ -6,16 +6,6 @@
 #### Uma lista em programação é uma estrutura de dados fundamental que permite organizar e gerenciar coleções de elementos de forma ordenada e flexível, que seguem uma "ordem de chegada". Isto é, o primeiro a entrar é o primeiro a sair. Exemplo:
 
 '''
-
-package listavii;
-
-import java.util.Scanner;
-
-import java.util.ArrayList;
-
-import java.util.List;
-
-public class exercicio2 {
 	
 	public static void main(String[] args) {
 		
@@ -54,14 +44,6 @@ public class exercicio2 {
 #### Já no caso da pilha, ela possui um funcionamento similar a lista, porém seu ordenamento se dá de forma diferente: o último a entrar é o primeiro a sair. Exemplo:
 
 '''
-
-package listavii;
-
-import java.util.Scanner;
-
-import java.util.Stack;
-
-public class exercicio2_pilha {
 	
 	public static void main(String[] args) {
 		
@@ -96,11 +78,6 @@ public class exercicio2_pilha {
 
 
 '''
-
-package listavii;
-
-
-public class exercicio3 {
 	
 	public static void insertionSort(int[] vetor) {
 		for (int i = 1; i < vetor.length; i++) { 
@@ -146,11 +123,6 @@ public class exercicio3 {
 ### 4. Escreva um algoritmo em C# que implemente a lógica de ordenação por inserçãodo Shell Sort.
 
 '''
-
-package listavii;
-
-
-public class exercicio4 {
 	
 	    public static void shellSort(int[] array) {
 	        int n = array.length;
@@ -186,6 +158,5 @@ public class exercicio4 {
 	    		}
 	    	}
 	    }
-}
 
 '''
