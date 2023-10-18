@@ -1,5 +1,5 @@
 # César Henrique Soares Marques - RA 622120352
-## una-listavii-java-2023-2
+## Lista de Atividades VII - Java
 
 ### 2. Explique o que é uma lista e uma pilha em estrutura de dados. Escreva em Java exemplos de uma lista e uma pilha.
 
