@@ -1,4 +1,5 @@
-# César Henrique Soares Marques - RA 622120352
+# Atividade realizada em Grupo:
+# César Henrique Soares Marques - RA 622120352 / Pedro Henrique Custodio - RA 62122976 / Wallace Rodrigues de Oliveira - RA 622122112
 ## Lista de Atividades VII - Java
 
 ### 2. Explique o que é uma lista e uma pilha em estrutura de dados. Escreva em Java exemplos de uma lista e uma pilha.
